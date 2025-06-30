@@ -1,3 +1,3 @@
-# MLPs-Beyond-
+# MLPs-Beyond-GNNs
 
 update soon
